@@ -1,0 +1,110 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    
+}
+#cri{
+    color: red;
+}
+
+
+#bct {
+    font-size: 50px;
+    color: green;
+    text-align: center;
+    margin-bottom:5%;
+}
+.top-img{
+    width: 70%;
+    margin-left: 15%;
+    border: 5px solid  ;
+    border-radius: 30px;
+    box-shadow: 5px 5px 30px rgb(5, 131, 5);
+}
+.blog-one{
+    display: flex;
+    text-align: justify;
+    margin-bottom:5% ;
+    margin-top: 2%;
+    
+}
+.blog-one-one{
+    width:50% ;
+    padding-left: 1%;
+    padding-right:1% ;
+}
+.blog-one-two{
+    width:50% ;
+    padding-left: 1%;
+    padding-right: 1%;
+}
+.heading{
+    color:rgb(100, 82, 76) ;
+    font-weight: 800;
+}
+span{
+    color: rgb(11, 23, 185);
+    font-size: 20px;
+}
+.author{
+    color: rgba(245, 8, 8, 0.986);
+}
+.player{
+    display: flex;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+.mm{
+    width: 25%;
+    height: auto;
+    margin-left: 5%;
+    box-shadow: 10px 10px 20px green;  
+}
+.sh{
+    width: 25%;
+    height: auto;
+    margin-left: 5%;
+    box-shadow: 10px 10px 20px green;
+}
+.ti{
+    width: 25%;
+    height:auto;
+    margin-left: 5%;
+    box-shadow: 10px 10px 20px green;
+
+}
+.word{
+    text-align: justify;
+    padding: 15px; 
+}
+.mmj{
+    width: 100%;
+    height: 40%;
+    border-radius: 0 0 7% 7%;
+}
+.shj{
+    width: 100%;
+    height: 40%;
+    border-radius: 0 0 7% 7%;
+
+}
+.tij{
+    width: 100%;
+    height: 40%;
+    border-radius: 0 0 7% 7%;
+
+}
+h2{
+    color: rgb(97, 153, 8);
+    padding: 10px; 
+    font-weight: 300;
+}
+h4{ color: orangered;
+    padding: 10px; 
+}
+footer{
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+
